@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  color: white;
+  background: linear-gradient(278deg, blue 80%, black 30%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: ;
+}
